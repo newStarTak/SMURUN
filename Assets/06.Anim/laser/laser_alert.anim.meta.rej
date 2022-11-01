@@ -1,0 +1,10 @@
+diff a/Assets/06.Anim/laser/laser_alert.anim.meta b/Assets/06.Anim/laser/laser_alert.anim.meta	(rejected hunks)
+@@ -0,0 +1,8 @@
++fileFormatVersion: 2
++guid: 059f02009dd79974a8ec3bee81b0960e
++NativeFormatImporter:
++  externalObjects: {}
++  mainObjectFileID: 7400000
++  userData: 
++  assetBundleName: 
++  assetBundleVariant: 
